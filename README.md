@@ -1,5 +1,6 @@
 ## master分支的说明
 
+master分支是调用了MathJax的CDN，所以需要访问互联网。
 
 ## offline分支的说明
 MathJax可以直接使用GitHub上的源代码，不需要编译。../MathJax是../MathJax.zip的解压缩，后者来自 https://github.com/mathjax/MathJax
